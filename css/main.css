@@ -177,6 +177,13 @@ sm {
   font-size: 12px;
 }
 
+span.gimp{
+    background-color: rgba(203,209,211,.3);
+    color: #666;
+    padding: 6px;
+    margin-right: 5px;
+}
+
 .desc .col-lg-3 {
   text-transform: uppercase;
 }
