@@ -181,7 +181,10 @@ span.gimp{
     background-color: rgba(203,209,211,.3);
     color: #666;
     padding: 6px;
-    margin-right: 5px;
+    margin: 5px;
+	margin-left:0px;
+	display:block;
+	float:left;
 }
 
 .desc .col-lg-3 {
