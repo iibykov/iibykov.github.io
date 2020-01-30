@@ -22,6 +22,10 @@ p {
   margin-bottom: 25px;
 }
 
+.job {
+	padding-top: 15px;
+}
+
 .centered {
     text-align: center;
 }
