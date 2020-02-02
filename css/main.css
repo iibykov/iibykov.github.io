@@ -22,6 +22,10 @@ p {
   margin-bottom: 25px;
 }
 
+.job {
+	padding-top: 15px;
+}
+
 .centered {
     text-align: center;
 }
@@ -150,7 +154,7 @@ a:after {
 /* Global Values */
 
 .desc {
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .desc p {
